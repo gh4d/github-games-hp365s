@@ -1,0 +1,3 @@
+* @hp365s
+*.js @somebodythatdoesnotexist
+docs/* @hp365s/documentation
